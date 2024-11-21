@@ -1,0 +1,13 @@
+image_name,x_min,y_min,x_max,y_max,class
+edges_2.png,417,208,459,265,fracture
+cleaned_0.png,228,198,340,379,fracture
+cleaned_3.png,73,55,153,112,fracture
+cleaned_6.png,267,104,339,161,fracture
+cleaned_1.png,337,160,399,272,fracture
+cleaned_2.png,417,209,464,266,fracture
+edges_0.png,216,212,353,346,fracture
+edges_6.png,256,111,336,184,fracture
+cleaned_4.png,79,197,171,267,fracture
+edges_4.png,79,201,180,262,fracture
+edges_3.png,71,54,152,117,fracture
+edges_1.png,345,172,385,262,fracture

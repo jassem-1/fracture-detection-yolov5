@@ -1,0 +1,26 @@
+<annotation>
+	<folder>preprocessed-images</folder>
+	<filename>cleaned_1.png</filename>
+	<path>C:\Users\SSS051124\Downloads\dorra-label\preprocessed-images\cleaned_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>729</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fracture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>160</ymin>
+			<xmax>399</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

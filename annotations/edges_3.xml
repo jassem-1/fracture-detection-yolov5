@@ -1,0 +1,26 @@
+<annotation>
+	<folder>preprocessed-images</folder>
+	<filename>edges_3.png</filename>
+	<path>C:\Users\SSS051124\Downloads\dorra-label\preprocessed-images\edges_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>179</width>
+		<height>282</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fracture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>54</ymin>
+			<xmax>152</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>
